@@ -1,11 +1,11 @@
 # DenzellAlvarez
 Here is my GitHub profile, welcome! I'm Denzell S. Alvarez, an enthusiastic programmer with a talent for database administration. I enjoy taking on challenging issues and coming up with tasteful fixes. I started my tech journey when I enrolled in the BS Information Technology degree, and I've been learning and developing ever since.
 
-##Education
+## Education
 - **BS Information technology**
   New Era University, 2017 - Present
 
-##Certifications
+## Certifications
 - [Oracle Cloud Infrastructure AI 2023 Certified Foundations
 Associate](https://brm-certview.oracle.com/ords/certview/ecertificate?ssn=OC5040126&trackId=OCI23AIFCA&key=501486ebe5e306a0558f32c51fe21e4b3f7ab578)
 - [[Oracle Cloud Data Management 2023 Certified Foundations
