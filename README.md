@@ -8,7 +8,7 @@ Here is my GitHub profile, welcome! I'm Denzell S. Alvarez, an enthusiastic prog
 ## Certifications
 - [Oracle Cloud Infrastructure AI 2023 Certified Foundations
 Associate](https://brm-certview.oracle.com/ords/certview/ecertificate?ssn=OC5040126&trackId=OCI23AIFCA&key=501486ebe5e306a0558f32c51fe21e4b3f7ab578)
-- [[Oracle Cloud Data Management 2023 Certified Foundations
+- [Oracle Cloud Data Management 2023 Certified Foundations
 Associate](https://brm-certview.oracle.com/ords/certview/ecertificate?ssn=OC5040126&trackId=OCIF2023CA&key=ab3be49dcd7ccb6ce842e8036eccc2da241c412b)
 - [Oracle Cloud Infrastructure 2023 Certified Foundations
 Associate](https://brm-certview.oracle.com/ords/certview/ecertificate?ssn=OC5040126&trackId=OCIF2023CA&key=ab3be49dcd7ccb6ce842e8036eccc2da241c412b)
