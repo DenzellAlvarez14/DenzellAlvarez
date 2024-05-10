@@ -12,7 +12,7 @@ Associate](https://brm-certview.oracle.com/ords/certview/ecertificate?ssn=OC5040
 Associate](https://brm-certview.oracle.com/ords/certview/ecertificate?ssn=OC5040126&trackId=OCIF2023CA&key=ab3be49dcd7ccb6ce842e8036eccc2da241c412b)
 - [Oracle Cloud Infrastructure 2023 Certified Foundations
 Associate](https://brm-certview.oracle.com/ords/certview/ecertificate?ssn=OC5040126&trackId=OCIF2023CA&key=ab3be49dcd7ccb6ce842e8036eccc2da241c412b)
-- [[SQL and Relational Databases
+- [SQL and Relational Databases
 101](https://courses.cognitiveclass.ai/certificates/5552dc2ba7ba481290dc09def9dc47b3)
 
 ## Skill Sets
